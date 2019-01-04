@@ -1,0 +1,22 @@
+{
+    "name": "jauharimalik/belajarcomposer",
+    "description": "Demo Composer PSR4 Autoload",
+    "license": "Free",
+    "keywords": ["belajarcomposer","composer"],
+    "homepage": "http://www.jauharimalik.github.io",
+    "authors": [
+        {
+            "name": "Jauharimalik",
+            "email": "jauharimalikupil@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "4.0.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Jauharimalik\\Belajarcomposer\\": "src"
+        }
+    }
+}
