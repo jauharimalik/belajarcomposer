@@ -14,7 +14,7 @@ Untuk mempelajari contoh ini, silahkan clone dengan cara:
 git clone git@github.com:jauharimalik/belajarcomposer.git
 ```
 
-atau dengan cara [download](https://github.com/jauharimalik/belajarcomposer/releases/).
+atau dengan cara [download](https://github.com/jauharimalik/belajarcomposer/).
 
 
 ## Cara menggunakan package
