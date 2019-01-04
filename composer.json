@@ -1,7 +1,7 @@
 {
     "name": "jauharimalik/belajarcomposer",
     "description": "Demo Composer PSR4 Autoload",
-    "license": "Free",
+    "license": "None",
     "keywords": ["belajarcomposer","composer"],
     "homepage": "http://www.jauharimalik.github.io",
     "authors": [
